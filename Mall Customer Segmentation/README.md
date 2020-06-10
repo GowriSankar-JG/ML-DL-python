@@ -1,6 +1,6 @@
 # Mall Customer Segmentation (Clustering Analysis)
 
-K-means Clustering algorithm is used in this project (with n_clusters = 5 and init = ‘kmeans++’) to analyze and form clusters of customers based on their annual income and spending score features.
+### K-means Clustering algorithm is used in this project (with n_clusters = 5 and init = ‘kmeans++’) to analyze and form clusters of customers based on their annual income and spending score features.
 
 **Cluster 5:**
 High Income, High Spending Score - Target these customers by sending new product alerts which would lead to an increase in the revenue collected by the mall as they are loyal customers.
