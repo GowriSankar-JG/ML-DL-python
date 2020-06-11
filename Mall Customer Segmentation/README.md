@@ -4,6 +4,7 @@ K-means Clustering algorithm is used in this project (with n_clusters = 5 and in
 
 ### Clustering Analysis
 
+#### Considering Annual Income and Spending Score
 **Cluster 5:**
 High Income, High Spending Score - Target these customers by sending new product alerts which would lead to an increase in the revenue collected by the mall as they are loyal customers.
 
@@ -18,3 +19,7 @@ Low Income, High Spending Score - Can target these set of customers by providing
 
 **Cluster 3:**
 Low Income, Low Spending Score - Don't target these customers since they have less income and need to save money.
+
+#### Considering Age of Customers
+I have aggregated them into 4 different categories namely **Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers**. 
+We can make different marketing strategies and policies to optimize the spending scores of the customer in the Mall.
